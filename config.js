@@ -11,7 +11,7 @@ const NFT_STORAGE_TOKEN = 'aaaaa';
 // Example of created token: https://solscan.io/token/Bj3EDqheEpjSVSwJxWkxYNpPHX1PWQKm7AtpQj8eCMcQ
 
 const revokeMintBool = true
-const revokeFreezeBool  = false
+const revokeFreezeBool  = true
 
 
 let tokenInfo = {
